@@ -1,0 +1,14 @@
+[
+  {
+    "package": "etrader",
+    "oncran": true
+  },
+  {
+    "package": "fmpcloudr",
+    "oncran": true
+  },
+  {
+    "package": "rameritrade",
+    "oncran": true
+  }
+]
