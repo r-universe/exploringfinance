@@ -8,13 +8,13 @@
 	url = https://github.com/exploringfinance/etrader
 	shallow = true
 	registered = true
-[submodule "rameritrade"]
-	path = rameritrade
-	url = https://github.com/exploringfinance/rameritrade
-	shallow = true
-	registered = true
 [submodule "fmpcloudr"]
 	path = fmpcloudr
 	url = https://github.com/exploringfinance/fmpcloudr
+	shallow = true
+	registered = true
+[submodule "rameritrade"]
+	path = rameritrade
+	url = https://github.com/exploringfinance/rameritrade
 	shallow = true
 	registered = true
