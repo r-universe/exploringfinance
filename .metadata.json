@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "fmpcloudr",
+    "package": "rameritrade",
     "oncran": true
   },
   {
-    "package": "rameritrade",
+    "package": "fmpcloudr",
     "oncran": true
   }
 ]
